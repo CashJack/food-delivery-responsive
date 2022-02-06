@@ -14,6 +14,9 @@
     display: flex;
     align-items: center;
     position: relative;
+    font-family: 'Baloo Bhai 2', cursive;
+
+
     
 }
 /* Navbar :logo & image  */
@@ -145,7 +148,7 @@
     
 }
 #clients img{
-        height: 90px;
+        height: 60px;
 }
 .client-items{
     margin: 0;
