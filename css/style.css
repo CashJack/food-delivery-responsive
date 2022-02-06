@@ -193,6 +193,8 @@
 
 
 
+
+
 footer{
     padding: 9px 20px;
     color: white;
@@ -214,6 +216,7 @@ footer{
     font-size: 1rem;
     border-radius: 10px;
     cursor: pointer;
+    text-align: center;
 }
 .center{
     text-align: center;
